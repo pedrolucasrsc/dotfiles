@@ -1,0 +1,1 @@
+- cloning to .config folder: [](https://gist.github.com/ZeroDragon/6707408)
