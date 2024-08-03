@@ -112,5 +112,18 @@ let g:netrw_list_hide.=',\(^\|\s\s\)\zs\.\S\+'
 
 " MY CONFIGURATION:
 
+" line numbering
 set nu
 set rnu
+
+" tabs
+set expandtab
+set tabstop=4      " Optional, if you want files with tabs to look the same too.
+set shiftwidth=4
+set softtabstop=-1 " Use value of shiftwidth
+set smarttab       " Always use shiftwidth
+set autoindent
+
+" appearence
+set colorcolumn=81
+set scrolloff=10
